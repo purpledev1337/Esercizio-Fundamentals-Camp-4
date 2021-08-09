@@ -1,0 +1,58 @@
+body {
+  color: white;
+  background-image: url(https://www.appartamenti-lathuile.com/wp-content/uploads/2016/05/sfondo-legno.jpg);
+}
+
+.panel {
+  padding: 5% 25% 5%;
+}
+
+.logo {
+  height: 60px;
+  display: inline-block;
+}
+
+#titolo {
+  font-size: 40px;
+  }
+
+nav {
+  font-size: 25px;
+}
+
+#circle {
+  color: white;
+  background-color: orange;
+  border-radius: 50%;
+  line-height: 30px;
+}
+
+.mailunread {
+  background-color: lightgrey;
+  border: solid 1px black;
+}
+
+.mailread {
+  background-color: white;
+  border: solid 1px black;
+}
+
+.mailsubj {
+  width: 33%;
+  display: inline-block;
+  color: black;
+}
+
+.mailtext {
+  width: 65%;
+  display: inline-block;
+  color: grey;
+}
+
+footer {
+  text-align: center;
+}
+
+#credits {
+  font-size: 25px;
+}
